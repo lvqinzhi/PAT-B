@@ -9,3 +9,4 @@
 [B1006](https://github.com/lvqinzhi/PAT-B/blob/master/B1006.cpp)|换个格式输出整数 (15 分)|水题|191102|
 [B1007](https://github.com/lvqinzhi/PAT-B/blob/master/B1007.cpp)|素数对猜想 (20 分)|简单模拟|191102|
 [B1008](https://github.com/lvqinzhi/PAT-B/blob/master/B1008.cpp)|数组元素循环右移问题 (20 分)|水题|191104|
+[B1009](https://github.com/lvqinzhi/PAT-B/blob/master/B1009.cpp)|说反话 (20 分)|字符串，水题|191128|
