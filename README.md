@@ -1,5 +1,5 @@
 # PAT乙级题目类型说明
-题号|题目|题型及备注|提交日期|
+题号|题目|题型或备注|提交日期|
 -----|-----|-----|-----|
 [B1001](https://github.com/lvqinzhi/PAT-B/blob/master/B1001.cpp)|害死人不偿命的(3n+1)猜想 (15 分)|水题|191101|
 [B1002](https://github.com/lvqinzhi/PAT-B/blob/master/B1002.cpp)|写出这个数 (20 分)|水题|191101|
