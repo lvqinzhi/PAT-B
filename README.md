@@ -18,3 +18,6 @@
 [B1015](https://github.com/lvqinzhi/PAT-B/blob/master/B1015.cpp)|德才论 (25 分)|排序，结构体|191130|
 [B1016](https://github.com/lvqinzhi/PAT-B/blob/master/B1016.cpp)|部分A+B (15 分)|简单模拟|191130|
 [B1017](https://github.com/lvqinzhi/PAT-B/blob/master/B1017.cpp)|A除以B (20 分)|简单模拟|191130|
+[B1018](https://github.com/lvqinzhi/PAT-B/blob/master/B1018.cpp)|锤子剪刀布 (20 分)|简单模拟|191202|
+[B1019](https://github.com/lvqinzhi/PAT-B/blob/master/B1019.cpp)|数字黑洞 (20 分)|简单模拟，字符串|191202|
+[B1020](https://github.com/lvqinzhi/PAT-B/blob/master/B1020.cpp)|月饼 (25 分)|贪心|191202|
