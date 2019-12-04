@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 
-int a[10000];
+int HashTable[10000];
 
 bool Cmp(int a, int b);
 
@@ -22,16 +22,16 @@ int main() {
 			else {
 				n = (n * 3 + 1) / 2;
 			}
-			if (a[n] == 1) {
+			if (HashTable[n] == 1) {
 				break;
 			}
-			a[n] = 1;
+			HashTable[n] = 1;
 		}
 	}
 	sort(v.begin(), v.end(), Cmp);
 	int flag = 0;
 	for (int i = 0; i < v.size(); i++) {
-		if (a[v[i]] == 0) {
+		if (HashTable[v[i]] == 0) {
 			if (flag == 1) {
 				cout << " ";
 			}
