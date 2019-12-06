@@ -5,7 +5,7 @@
 [B1002](https://github.com/lvqinzhi/PAT-B/blob/master/B1002.cpp)|写出这个数 (20 分)|字符串|191101|
 [B1003](https://github.com/lvqinzhi/PAT-B/blob/master/B1003.cpp)|我要通过！ (20 分)|简单数学|191101|
 [B1004](https://github.com/lvqinzhi/PAT-B/blob/master/B1004.cpp)|成绩排名 (20 分)|查找元素|191101|
-[B1005](https://github.com/lvqinzhi/PAT-B/blob/master/B1005.cpp)|继续(3n+1)猜想 (25 分)|哈希散列|191101|
+[B1005](https://github.com/lvqinzhi/PAT-B/blob/master/B1005.cpp)|继续(3n+1)猜想 (25 分)|散列|191101|
 [B1006](https://github.com/lvqinzhi/PAT-B/blob/master/B1006.cpp)|换个格式输出整数 (15 分)|字符串|191102|
 [B1007](https://github.com/lvqinzhi/PAT-B/blob/master/B1007.cpp)|素数对猜想 (20 分)|素数|191102|
 [B1008](https://github.com/lvqinzhi/PAT-B/blob/master/B1008.cpp)|数组元素循环右移问题 (20 分)|简单模拟|191104|
@@ -29,3 +29,5 @@
 [B1026](https://github.com/lvqinzhi/PAT-B/blob/master/B1026.cpp)|程序运行时间 (15分)|简单模拟|191205|
 [B1027](https://github.com/lvqinzhi/PAT-B/blob/master/B1027.cpp)|打印沙漏 (20分)|图形输出|191205|
 [B1028](https://github.com/lvqinzhi/PAT-B/blob/master/B1028.cpp)|人口普查 (20分)|查找元素|191205|
+[B1029](https://github.com/lvqinzhi/PAT-B/blob/master/B1029.cpp)|旧键盘 (20分)|字符串/散列|191206|
+[B1030](https://github.com/lvqinzhi/PAT-B/blob/master/B1030.cpp)|完美数列 (25分)|two pointers|191206|
