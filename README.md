@@ -1,5 +1,5 @@
 # PAT乙级题目类型说明
-题号|题目|题型或备注|提交日期|
+题号|题目|题型/其它解法|提交日期|
 -----|-----|-----|-----|
 [B1001](https://github.com/lvqinzhi/PAT-B/blob/master/B1001.cpp)|害死人不偿命的(3n+1)猜想 (15 分)|简单模拟|191101|
 [B1002](https://github.com/lvqinzhi/PAT-B/blob/master/B1002.cpp)|写出这个数 (20 分)|字符串|191101|
@@ -35,3 +35,6 @@
 [B1032](https://github.com/lvqinzhi/PAT-B/blob/master/B1032.cpp)|挖掘机技术哪家强 (20分)|查找元素|191208|
 [B1033](https://github.com/lvqinzhi/PAT-B/blob/master/B1033.cpp)|旧键盘打字 (20分)|字符串/散列|191208|
 [B1034](https://github.com/lvqinzhi/PAT-B/blob/master/B1034.cpp)|有理数四则运算 (20分)|分数|191208|
+[B1035](https://github.com/lvqinzhi/PAT-B/blob/master/B1035.cpp)|插入与归并 (25分)|two pointers|191211|
+[B1036](https://github.com/lvqinzhi/PAT-B/blob/master/B1036.cpp)|跟奥巴马一起编程 (15分)|图形输出|191211|
+[B1037](https://github.com/lvqinzhi/PAT-B/blob/master/B1037.cpp)|在霍格沃茨找零钱 (20分)|进制转换|191211|
