@@ -38,3 +38,6 @@
 [B1035](https://github.com/lvqinzhi/PAT-B/blob/master/B1035.cpp)|插入与归并 (25分)|two pointers|191211|
 [B1036](https://github.com/lvqinzhi/PAT-B/blob/master/B1036.cpp)|跟奥巴马一起编程 (15分)|图形输出|191211|
 [B1037](https://github.com/lvqinzhi/PAT-B/blob/master/B1037.cpp)|在霍格沃茨找零钱 (20分)|进制转换|191211|
+[B1038](https://github.com/lvqinzhi/PAT-B/blob/master/B1038.cpp)|统计同成绩学生 (20分)|散列|191212|
+[B1039](https://github.com/lvqinzhi/PAT-B/blob/master/B1039.cpp)|到底买不买 (20分)|散列|191212|
+[B1040](https://github.com/lvqinzhi/PAT-B/blob/master/B1040.cpp)|有几个PAT (25分)|others|191212|
