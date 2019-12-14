@@ -41,3 +41,6 @@
 [B1038](https://github.com/lvqinzhi/PAT-B/blob/master/B1038.cpp)|统计同成绩学生 (20分)|散列|191212|
 [B1039](https://github.com/lvqinzhi/PAT-B/blob/master/B1039.cpp)|到底买不买 (20分)|散列|191212|
 [B1040](https://github.com/lvqinzhi/PAT-B/blob/master/B1040.cpp)|有几个PAT (25分)|others|191212|
+[B1041](https://github.com/lvqinzhi/PAT-B/blob/master/B1041.cpp)|考试座位号 (15分)|查找元素|191214|
+[B1042](https://github.com/lvqinzhi/PAT-B/blob/master/B1042.cpp)|字符统计 (20分)|散列|191214|
+[B1043](https://github.com/lvqinzhi/PAT-B/blob/master/B1043.cpp)|输出PATest (20分)|散列|191214|
