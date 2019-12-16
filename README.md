@@ -1,6 +1,6 @@
 # PAT乙级题目类型说明
 题号|题目|题型|代码长度|提交日期|
------|-----|-----|-----|
+-----|-----|-----|-----|-----|
 [B1001](https://github.com/lvqinzhi/PAT-B/blob/master/B1001.cpp)|害死人不偿命的(3n+1)猜想 (15 分)|简单模拟|20|191101|
 [B1002](https://github.com/lvqinzhi/PAT-B/blob/master/B1002.cpp)|写出这个数 (20 分)|字符串|56|191101|
 [B1003](https://github.com/lvqinzhi/PAT-B/blob/master/B1003.cpp)|我要通过！ (20 分)|简单数学|30|191101|
