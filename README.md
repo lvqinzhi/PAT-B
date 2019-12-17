@@ -18,7 +18,7 @@
 [B1015](https://github.com/lvqinzhi/PAT-B/blob/master/B1015.cpp)|德才论 (25 分)|排序|56|191130|
 [B1016](https://github.com/lvqinzhi/PAT-B/blob/master/B1016.cpp)|部分A+B (15 分)|简单模拟|21|191130|
 [B1017](https://github.com/lvqinzhi/PAT-B/blob/master/B1017.cpp)|A除以B (20 分)|大整数|22|191130|
-[B1018](https://github.com/lvqinzhi/PAT-B/blob/master/B1018.cpp)|锤子剪刀布 (20 分)|简单模拟|54|191202|
+[B1018](https://github.com/lvqinzhi/PAT-B/blob/master/B1018.cpp)|锤子剪刀布 (20 分)|简单模拟|51|191202|
 [B1019](https://github.com/lvqinzhi/PAT-B/blob/master/B1019.cpp)|数字黑洞 (20 分)|简单数学|19|191202|
 [B1020](https://github.com/lvqinzhi/PAT-B/blob/master/B1020.cpp)|月饼 (25 分)|贪心|43|191202|
 [B1021](https://github.com/lvqinzhi/PAT-B/blob/master/B1021.cpp)|个位数统计 (15分)|字符串|17|191204|
