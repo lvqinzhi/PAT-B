@@ -38,14 +38,11 @@ int main() {
 	cout << BW << " " << n - AW - BW << " " << AW << endl;
 	int maxA = 0, maxB = 0, maxAn = 0, maxBn = 0;
 	for (int i = 0; i < 3; i++) {
-		if (A[i] > maxA) {
-			maxA = A[i];
+		if (A[i] > A[maxAn]) {
 			maxAn = i;
 		}
-		if (B[i] > maxB) {
-			maxB = B[i];
+		if (B[i] > B[maxBn]) {
 			maxBn = i;
-
 		}
 	}
 	char max[4] = "BCJ";
