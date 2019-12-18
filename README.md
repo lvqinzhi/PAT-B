@@ -48,3 +48,4 @@
 [B1045](https://github.com/lvqinzhi/PAT-B/blob/master/B1045.cpp)|快速排序 (25分)|others|34|191216|
 [B1046](https://github.com/lvqinzhi/PAT-B/blob/master/B1046.cpp)|划拳 (15分)|简单模拟|20|191216|
 [B1047](https://github.com/lvqinzhi/PAT-B/blob/master/B1047.cpp)|编程团体赛 (20分)|散列|22|191216|
+[B1048](https://github.com/lvqinzhi/PAT-B/blob/master/B1048.cpp)|数字加密 (20分)|字符串|32|191218|

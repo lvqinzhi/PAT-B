@@ -37,7 +37,7 @@ int main() {
 	cout << AW << " " << n - AW - BW << " " << BW << endl;
 	cout << BW << " " << n - AW - BW << " " << AW << endl;
 	int maxA = 0, maxB = 0, maxAn = 0, maxBn = 0;
-	for (int i = 0; i < 3; i++) {
+	for (int i = 1; i < 3; i++) {
 		if (A[i] > A[maxAn]) {
 			maxAn = i;
 		}
