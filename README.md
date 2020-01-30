@@ -52,5 +52,7 @@
 [B1049](https://github.com/lvqinzhi/PAT-B/blob/master/B1049.cpp)|数列的片段和 (20分)|简单数学|14|200120|
 [B1050](https://github.com/lvqinzhi/PAT-B/blob/master/B1050.cpp)|螺旋矩阵 (25分)|中级模拟|57|200127|
 [B1051](https://github.com/lvqinzhi/PAT-B/blob/master/B1051.cpp)|复数乘法 (15分)|简单数学|23|200127|
-[B1052](https://github.com/lvqinzhi/PAT-B/blob/master/B1052.cpp)|卖个萌 (20分)|字符串|40|200128|
+[B1052](https://github.com/lvqinzhi/PAT-B/blob/master/B1052.cpp)|卖个萌 (20分)|简单模拟|40|200128|
 [B1053](https://github.com/lvqinzhi/PAT-B/blob/master/B1053.cpp)|住房空置率 (20分)|简单模拟|24|200129|
+[B1054](https://github.com/lvqinzhi/PAT-B/blob/master/B1054.cpp)|求平均值 (20分)|字符串|38|200130|
+[B1055](https://github.com/lvqinzhi/PAT-B/blob/master/B1055.cpp)|集体照 (25分)|中级模拟|48|200130|
