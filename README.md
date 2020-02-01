@@ -56,3 +56,6 @@
 [B1053](https://github.com/lvqinzhi/PAT-B/blob/master/B1053.cpp)|住房空置率 (20分)|简单模拟|24|200129|
 [B1054](https://github.com/lvqinzhi/PAT-B/blob/master/B1054.cpp)|求平均值 (20分)|字符串|38|200130|
 [B1055](https://github.com/lvqinzhi/PAT-B/blob/master/B1055.cpp)|集体照 (25分)|中级模拟|48|200130|
+[B1056](https://github.com/lvqinzhi/PAT-B/blob/master/B1056.cpp)|组合数的和 (15分)|简单数学|15|200130|
+[B1057](https://github.com/lvqinzhi/PAT-B/blob/master/B1057.cpp)|数壹零 (20分)|字符串|21|200131|
+[B1058](https://github.com/lvqinzhi/PAT-B/blob/master/B1058.cpp)|选择题 (20分)|简单模拟|70|200201|
