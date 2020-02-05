@@ -63,3 +63,6 @@
 [B1060](https://github.com/lvqinzhi/PAT-B/blob/master/B1060.cpp)|爱丁顿数 (25分)|简单模拟|25|200202|
 [B1061](https://github.com/lvqinzhi/PAT-B/blob/master/B1061.cpp)|判断题 (15分)|简单模拟|27|200202|
 [B1062](https://github.com/lvqinzhi/PAT-B/blob/master/B1062.cpp)|最简分数 (20分)|分数|31|200204|
+[B1063](https://github.com/lvqinzhi/PAT-B/blob/master/B1063.cpp)|计算谱半径 (20分)|简单数学|18|200205|
+[B1064](https://github.com/lvqinzhi/PAT-B/blob/master/B1064.cpp)|朋友数 (20分)|简单模拟|23|200205|
+[B1065](https://github.com/lvqinzhi/PAT-B/blob/master/B1065.cpp)|单身狗 (25分)|散列|37|200205|
