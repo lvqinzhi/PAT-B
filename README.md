@@ -66,3 +66,8 @@
 [B1063](https://github.com/lvqinzhi/PAT-B/blob/master/B1063.cpp)|计算谱半径 (20分)|简单数学|18|200205|
 [B1064](https://github.com/lvqinzhi/PAT-B/blob/master/B1064.cpp)|朋友数 (20分)|简单模拟|23|200205|
 [B1065](https://github.com/lvqinzhi/PAT-B/blob/master/B1065.cpp)|单身狗 (25分)|散列|37|200205|
+[B1066](https://github.com/lvqinzhi/PAT-B/blob/master/B1066.cpp)|图像过滤 (15分)|简单模拟|19|200206|
+[B1067](https://github.com/lvqinzhi/PAT-B/blob/master/B1067.cpp)|试密码 (20分)|字符串|33|200206|
+[B1068](https://github.com/lvqinzhi/PAT-B/blob/master/B1068.cpp)|万绿丛中一点红 (20分)|中级模拟|54|200208|
+[B1069](https://github.com/lvqinzhi/PAT-B/blob/master/B1069.cpp)|微博转发抽奖 (20分)|简单模拟|28|200208|
+[B1070](https://github.com/lvqinzhi/PAT-B/blob/master/B1070.cpp)|结绳 (25分)|贪心|22|200208|
