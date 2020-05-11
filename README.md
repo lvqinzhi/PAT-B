@@ -58,7 +58,7 @@
 [B1055](https://github.com/lvqinzhi/PAT-B/blob/master/B1055.cpp)|集体照 (25分)|中级模拟|48|200130|
 [B1056](https://github.com/lvqinzhi/PAT-B/blob/master/B1056.cpp)|组合数的和 (15分)|简单数学|15|200130|
 [B1057](https://github.com/lvqinzhi/PAT-B/blob/master/B1057.cpp)|数壹零 (20分)|进制转换|21|200131|
-[B1058](https://github.com/lvqinzhi/PAT-B/blob/master/B1058.cpp)|选择题 (20分)|简单模拟|70|200201|
+[B1058](https://github.com/lvqinzhi/PAT-B/blob/master/B1058.cpp)|选择题 (20分)|中级模拟|70|200201|
 [B1059](https://github.com/lvqinzhi/PAT-B/blob/master/B1059.cpp)|C语言竞赛 (20分)|散列|54|200202|
 [B1060](https://github.com/lvqinzhi/PAT-B/blob/master/B1060.cpp)|爱丁顿数 (25分)|简单模拟|25|200202|
 [B1061](https://github.com/lvqinzhi/PAT-B/blob/master/B1061.cpp)|判断题 (15分)|简单模拟|27|200202|
@@ -68,8 +68,10 @@
 [B1065](https://github.com/lvqinzhi/PAT-B/blob/master/B1065.cpp)|单身狗 (25分)|散列|37|200205|
 [B1066](https://github.com/lvqinzhi/PAT-B/blob/master/B1066.cpp)|图像过滤 (15分)|简单模拟|19|200206|
 [B1067](https://github.com/lvqinzhi/PAT-B/blob/master/B1067.cpp)|试密码 (20分)|字符串|33|200206|
-[B1068](https://github.com/lvqinzhi/PAT-B/blob/master/B1068.cpp)|万绿丛中一点红 (20分)|中级模拟|54|200208|
+[B1068](https://github.com/lvqinzhi/PAT-B/blob/master/B1068.cpp)|万绿丛中一点红 (20分)|简单模拟|54|200208|
 [B1069](https://github.com/lvqinzhi/PAT-B/blob/master/B1069.cpp)|微博转发抽奖 (20分)|简单模拟|28|200208|
 [B1070](https://github.com/lvqinzhi/PAT-B/blob/master/B1070.cpp)|结绳 (25分)|贪心|22|200208|
 [B1071](https://github.com/lvqinzhi/PAT-B/blob/master/B1071.cpp)|小赌怡情 (15分)|简单模拟|29|200210|
 [B1072](https://github.com/lvqinzhi/PAT-B/blob/master/B1072.cpp)|开学寄语 (20分)|散列|40|200210|
+[B1073](https://github.com/lvqinzhi/PAT-B/blob/master/B1073.cpp)|多选题常见计分法 (20分)|中级模拟|89|200511|
+[B1074](https://github.com/lvqinzhi/PAT-B/blob/master/B1074.cpp)|宇宙无敌加法器 (20分)|进制转换|44|200511|
