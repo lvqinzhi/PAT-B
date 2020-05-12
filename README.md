@@ -75,3 +75,6 @@
 [B1072](https://github.com/lvqinzhi/PAT-B/blob/master/B1072.cpp)|开学寄语 (20分)|散列|40|200210|
 [B1073](https://github.com/lvqinzhi/PAT-B/blob/master/B1073.cpp)|多选题常见计分法 (20分)|中级模拟|89|200511|
 [B1074](https://github.com/lvqinzhi/PAT-B/blob/master/B1074.cpp)|宇宙无敌加法器 (20分)|进制转换|44|200511|
+[B1075](https://github.com/lvqinzhi/PAT-B/blob/master/B1075.cpp)|链表元素分类 (25分)|链表|45|200512|
+[B1076](https://github.com/lvqinzhi/PAT-B/blob/master/B1076.cpp)|Wifi密码 (15分)|简单模拟|14|200512|
+[B1077](https://github.com/lvqinzhi/PAT-B/blob/master/B1077.cpp)|互评成绩计算 (20分)|简单模拟|25|200512|
