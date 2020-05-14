@@ -78,3 +78,5 @@
 [B1075](https://github.com/lvqinzhi/PAT-B/blob/master/B1075.cpp)|链表元素分类 (25分)|链表|45|200512|
 [B1076](https://github.com/lvqinzhi/PAT-B/blob/master/B1076.cpp)|Wifi密码 (15分)|简单模拟|14|200512|
 [B1077](https://github.com/lvqinzhi/PAT-B/blob/master/B1077.cpp)|互评成绩计算 (20分)|简单模拟|25|200512|
+[B1078](https://github.com/lvqinzhi/PAT-B/blob/master/B1078.cpp)|字符串压缩与解压 (20分)|字符串|58|200514|
+[B1079](https://github.com/lvqinzhi/PAT-B/blob/master/B1079.cpp)|延迟的回文数 (20分)|大整数|45|200514|
