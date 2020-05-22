@@ -9,6 +9,7 @@ int main() {
 	string str;
 	cin >> str;
 	Dispose(str, 0);
+	return 0;
 }
 
 bool Dispose(string s, int cnt) {

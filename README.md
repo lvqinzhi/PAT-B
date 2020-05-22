@@ -1,5 +1,5 @@
 # PAT乙级题目类型说明
-题号|题目|题型|代码长度|提交日期|
+题号|题目|题型|代码长度|完成日期|
 -----|-----|-----|-----|-----|
 [B1001](https://github.com/lvqinzhi/PAT-B/blob/master/B1001.cpp)|害死人不偿命的(3n+1)猜想 (15 分)|简单模拟|20|191101|
 [B1002](https://github.com/lvqinzhi/PAT-B/blob/master/B1002.cpp)|写出这个数 (20 分)|字符串|56|191101|
@@ -79,4 +79,6 @@
 [B1076](https://github.com/lvqinzhi/PAT-B/blob/master/B1076.cpp)|Wifi密码 (15分)|简单模拟|14|200512|
 [B1077](https://github.com/lvqinzhi/PAT-B/blob/master/B1077.cpp)|互评成绩计算 (20分)|简单模拟|25|200512|
 [B1078](https://github.com/lvqinzhi/PAT-B/blob/master/B1078.cpp)|字符串压缩与解压 (20分)|字符串|58|200514|
-[B1079](https://github.com/lvqinzhi/PAT-B/blob/master/B1079.cpp)|延迟的回文数 (20分)|大整数|45|200514|
+[B1079](https://github.com/lvqinzhi/PAT-B/blob/master/B1079.cpp)|延迟的回文数 (20分)|大整数|46|200514|
+[B1080](https://github.com/lvqinzhi/PAT-B/blob/master/B1080.cpp)|MOOC期终成绩 (25分)|排序|60|200522|
+[B1081](https://github.com/lvqinzhi/PAT-B/blob/master/B1081.cpp)|检查密码 (15分)|字符串|44|200522|
