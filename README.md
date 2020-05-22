@@ -82,3 +82,7 @@
 [B1079](https://github.com/lvqinzhi/PAT-B/blob/master/B1079.cpp)|延迟的回文数 (20分)|大整数|46|200514|
 [B1080](https://github.com/lvqinzhi/PAT-B/blob/master/B1080.cpp)|MOOC期终成绩 (25分)|排序|60|200522|
 [B1081](https://github.com/lvqinzhi/PAT-B/blob/master/B1081.cpp)|检查密码 (15分)|字符串|44|200522|
+[B1082](https://github.com/lvqinzhi/PAT-B/blob/master/B1082.cpp)|射击比赛 (20分)|查找元素|25|200522|
+[B1083](https://github.com/lvqinzhi/PAT-B/blob/master/B1083.cpp)|是否存在相等的差 (20分)|简单模拟|20|200522|
+[B1084](https://github.com/lvqinzhi/PAT-B/blob/master/B1084.cpp)|外观数列 (20分)|字符串|20|200522|
+[B1085](https://github.com/lvqinzhi/PAT-B/blob/master/B1085.cpp)|PAT单位排行 (25分)|排序|68|200522|
