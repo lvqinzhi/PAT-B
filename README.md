@@ -86,3 +86,5 @@
 [B1083](https://github.com/lvqinzhi/PAT-B/blob/master/B1083.cpp)|是否存在相等的差 (20分)|简单模拟|20|200522|
 [B1084](https://github.com/lvqinzhi/PAT-B/blob/master/B1084.cpp)|外观数列 (20分)|字符串|20|200522|
 [B1085](https://github.com/lvqinzhi/PAT-B/blob/master/B1085.cpp)|PAT单位排行 (25分)|排序|68|200522|
+[B1086](https://github.com/lvqinzhi/PAT-B/blob/master/B1086.cpp)|就不告诉你 (15分)|字符串|13|200524|
+[B1087](https://github.com/lvqinzhi/PAT-B/blob/master/B1087.cpp)|有多少不同的值 (20分)|简单模拟|14|200524|
