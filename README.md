@@ -88,3 +88,6 @@
 [B1085](https://github.com/lvqinzhi/PAT-B/blob/master/B1085.cpp)|PAT单位排行 (25分)|排序|68|200522|
 [B1086](https://github.com/lvqinzhi/PAT-B/blob/master/B1086.cpp)|就不告诉你 (15分)|字符串|13|200524|
 [B1087](https://github.com/lvqinzhi/PAT-B/blob/master/B1087.cpp)|有多少不同的值 (20分)|简单模拟|14|200524|
+[B1088](https://github.com/lvqinzhi/PAT-B/blob/master/B1088.cpp)|三人行 (20分)|简单模拟|35|200712|
+[B1091](https://github.com/lvqinzhi/PAT-B/blob/master/B1091.cpp)|N-自守数 (15分)简单模拟|37|200712|
+[B1092](https://github.com/lvqinzhi/PAT-B/blob/master/B1092.cpp)|N-自守数 (15分)查找|27|200712|
