@@ -89,5 +89,7 @@
 [B1086](https://github.com/lvqinzhi/PAT-B/blob/master/B1086.cpp)|就不告诉你 (15分)|字符串|13|200524|
 [B1087](https://github.com/lvqinzhi/PAT-B/blob/master/B1087.cpp)|有多少不同的值 (20分)|简单模拟|14|200524|
 [B1088](https://github.com/lvqinzhi/PAT-B/blob/master/B1088.cpp)|三人行 (20分)|简单模拟|35|200712|
-[B1091](https://github.com/lvqinzhi/PAT-B/blob/master/B1091.cpp)|N-自守数 (15分)简单模拟|37|200712|
-[B1092](https://github.com/lvqinzhi/PAT-B/blob/master/B1092.cpp)|N-自守数 (15分)查找|27|200712|
+[B1091](https://github.com/lvqinzhi/PAT-B/blob/master/B1091.cpp)|N-自守数 (15分)|简单模拟|37|200712|
+[B1092](https://github.com/lvqinzhi/PAT-B/blob/master/B1092.cpp)|最好吃的月饼 (20分)|查找|27|200712|
+[B1093](https://github.com/lvqinzhi/PAT-B/blob/master/B1093.cpp)|字符串A+B (20分)|字符串|19|200713|
+[B1094](https://github.com/lvqinzhi/PAT-B/blob/master/B1094.cpp)|谷歌的招聘 (20分)|素数|30|200713|
