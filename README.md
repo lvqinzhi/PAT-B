@@ -93,3 +93,4 @@
 [B1092](https://github.com/lvqinzhi/PAT-B/blob/master/B1092.cpp)|最好吃的月饼 (20分)|查找|27|200712|
 [B1093](https://github.com/lvqinzhi/PAT-B/blob/master/B1093.cpp)|字符串A+B (20分)|字符串|19|200713|
 [B1094](https://github.com/lvqinzhi/PAT-B/blob/master/B1094.cpp)|谷歌的招聘 (20分)|素数|30|200713|
+[B1095](https://github.com/lvqinzhi/PAT-B/blob/master/B1095.cpp)|解码PAT准考证 (25分)|中级模拟|96|200715|
